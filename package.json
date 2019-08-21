@@ -1,0 +1,21 @@
+{
+  "name": "interviewQ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {
+    "onchange": "^6.0.0",
+    "prettier": "1.18.2"
+  }
+}
