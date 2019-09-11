@@ -1,3 +1,6 @@
+/**
+ * This module's utility is to add common/often used algorithms or which we'll be used across modules.
+ */
 const utils = {};
 
 /**
