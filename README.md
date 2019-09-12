@@ -31,7 +31,7 @@ In a ideal world, it would be best to have implementations in the following prog
 
 #### a. By developers 
 
-![picture alt](assets/programmer.png?s=100)
+<img src="assets/programmer.png" width="50%">
 
 Developers are welcomed to submit algorithm exercices and their implementations. Each exercise must have a readme with the following information : 
 
