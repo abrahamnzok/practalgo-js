@@ -1,4 +1,4 @@
-## Algorithm Interview Questions - Javascript Implementation : Palindrome
+## Algorithm Interview Questions - Javascript Implementation : Fibonacci
 
 ### DIFFICULTY : n/5, n ∈ [1, 2]
 
