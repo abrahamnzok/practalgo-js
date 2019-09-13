@@ -1,21 +1,30 @@
 ## Common/Useful Algorithm Implementations Exercises
 
 ### Table of contents
- * [Purpose](#1-purpose)
- * [How it should be used](#2-how-it-should-be-used) 
+ * [Why this project?](#1-why-this-project-question)
+ * [Purpose](#2-purpose)
+ * [How it should be used](#3-how-it-should-be-used) 
     * [By Developers](#a-by-developers)
     * [By Interviewees](#b-by-interviewees)
     * [By Recruiters](#c-by-recruiters)
+    
+### 1. Why this project :question:
 
-### 1. Purpose
+There are good developers out there with great knowledge, and I strongly believe in sharing that knowledge.
 
-The aim of this project is to give as much as possible algorithm exercises to practise problem solving and share knowledge, from experienced developers to junior developers, in order for junior developers to practise for their technical interviews.
+Today platforms such as [codesignal](https://app.codesignal.com/) give the ability to practise and to challenge oneself on solving  algorithms. 
 
-Not only that, it can be also be a great place for developers where they can learn, practise, or see how a problem can be solved.
+Such platforms are great but not always, because: 
+  1. There is no explanation given as to the implementation of the algorithms.
+  2. You cannot navigate in the different exercises
 
-In fact, most common problems in the IT industry involve algorithm implementations. 
+### 2. Purpose
 
-More importantly, it is important to share knowledge, especially in a world such as IT. For that reason, This project is opened to any developer who can share an algorithm and its implementation.
+The aim of this project is to give as much as possible algorithms exercises to practise problem solving. For instance, in order for junior developers to practise for their technical interviews. 
+
+Not only that, it can be also be a great place for developers to learn, practise, or see how an algorithm can be used to solve a problem.
+
+More importantly, it is great to share knowledge, especially in a world such as IT. For that reason, This project is opened to any developer who can share an algorithm, its implementation and give an explanation.
 
 In a ideal world, it would be best to have implementations in the following programming languages:
 
@@ -27,11 +36,13 @@ In a ideal world, it would be best to have implementations in the following prog
 * Erlang 
 * Or any other popular programming language 
 
-### 2. How it should be used 
+A long term vision would be to have multi-repositories and publish a book in the programming languages mentioned above.
+
+### 3. How it should be used 
 
 #### a. By developers 
 
-Developers are welcomed to submit algorithm exercices and their implementations. Each exercise must have a readme with the following information : 
+Developers are welcomed to submit algorithm exercises and their implementations. Each exercise must have a readme with the following information : 
 
  * The title and the language used to implement the exercise
  * The level of difficulty, e.g : ___n/5, n ∈ [1, 2]___
@@ -51,14 +62,14 @@ The interviewees are also developers/future developers. They can practise for th
 
 On the other hand, an interviewee can also submit pull request and participate in the evolution of this project. 
 
-In order to submit an implementation, the interviewee must create a file with the following format : `solution_githubusername.js`, in the exercise's directory.
-
-:exclamation: Before submitting make sure the tests cases are fulfilled
-
 #### c. By recruiters
 
 Recruiters are welcomed to pick some exercises for their interviewees. 
 
 Recruiters should take in account both the level of difficulty and the level of the developers they are interviewing.
 
+#### d. Submitting an implementation
 
+In order to submit an implementation, the developer/interviewee must create a file with the following format : `solution_identifier.js`, in the exercise's directory. :exclamation: `identifier is the following file's number, for instance solution_3.js`
+
+:exclamation: Before submitting make sure the tests cases are fulfilled
